@@ -1,0 +1,21 @@
+---
+title: "HW 03 - Bike rentals in DC"
+author: "INSERT NAME HERE"
+date: "INSERT TODAY'S DATE HERE"
+output: github_document
+---
+
+### Load packages and data
+
+```{r load-packages-data, message=FALSE}
+
+```
+
+
+### Question 1
+
+### Question 2
+
+### Question 3
+
+... Add code chunks and question labels as needed.
